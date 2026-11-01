@@ -6,9 +6,9 @@
 
 ## About
 
-I am an applied ML engineer who works close to the client. At ALTAVE I was Forward Deployed Engineer for a drilling client, I manage a maritime monitoring project, and I led the architecture of a real-time GPU vision pipeline. I like to own a product end to end, from Figma and frontend to backend, AI models and hardware installation. Today I focus on agentic systems and computer vision.
+I am a forward deployed engineer who owns solutions end to end, from the client problem to production. At ALTAVE I worked on site with a drilling client as Forward Deployed Engineer, I manage a maritime monitoring project, and I led the architecture of a real-time GPU vision pipeline. I design the product, build the models and services, and ship them, with the client in the loop at every step. Today I focus on computer vision and agentic systems.
 
-Based in Santos, São Paulo, Brazil (remote). Portuguese (native), English (native or bilingual). Mechatronics Engineering, Escola Politécnica da USP.
+Based in São Paulo, SP, Brazil (remote). Portuguese (native), English (native or bilingual). Mechatronics Engineering, Escola Politécnica da USP.
 
 ## Experience
 
