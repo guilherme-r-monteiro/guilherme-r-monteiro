@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Guilherme Monteiro, applied ML engineer">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#38e8c6" stop-opacity="0"/><stop offset=".5" stop-color="#38e8c6"/><stop offset="1" stop-color="#38e8c6" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#38e8c6" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="300" fill="#070b14"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+<g fill="none" stroke="#38e8c6" stroke-width="2" opacity=".75">
+<rect x="880" y="48" width="150" height="190" rx="4"/><rect x="760" y="140" width="100" height="80" rx="4"/><rect x="1060" y="150" width="80" height="80" rx="4"/>
+</g>
+<g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#04110e">
+<rect x="880" y="30" width="86" height="18" fill="#38e8c6"/><text x="888" y="43">person 0.91</text>
+<rect x="760" y="122" width="62" height="18" fill="#38e8c6"/><text x="768" y="135">car 0.84</text>
+<rect x="1060" y="132" width="62" height="18" fill="#38e8c6"/><text x="1068" y="145">dog 0.77</text>
+</g>
+<rect x="0" y="190" width="1200" height="2" fill="url(#g)"/>
+<g font-family="ui-monospace,Menlo,Consolas,monospace">
+<text x="60" y="95" font-size="16" fill="#38e8c6" letter-spacing="3">&gt; APPLIED ML ENGINEER</text>
+<text x="60" y="150" font-size="50" font-weight="700" fill="#d7e3f4">Guilherme Monteiro</text>
+<text x="60" y="225" font-size="20" fill="#8da2c0">Computer vision and agentic systems, measured end to end.</text>
+</g>
+</svg>
